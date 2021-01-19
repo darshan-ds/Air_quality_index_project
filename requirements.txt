@@ -1,13 +1,15 @@
 beautifulsoup4==4.9.3
 certifi==2020.12.5
 cycler==0.10.0
+graphviz @ file:///tmp/build/80754af9/python-graphviz_1606773791755/work
 joblib==1.0.0
 kiwisolver==1.3.1
 matplotlib==3.3.3
 numpy==1.19.5
 pandas==1.2.0
 Pillow==8.1.0
-pyparsing==2.4.7
+pydotplus @ file:///tmp/build/80754af9/pydotplus_1594390100614/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 python-dateutil==2.8.1
 pytz==2020.5
 scikit-learn==0.24.0
